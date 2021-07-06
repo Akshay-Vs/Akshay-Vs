@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Akshay-Vs
-- 👀 I’m interested in Python programming
-- 🌱 I’m currently learning 
+- 👀 I’m interested in Python programming and game development
+- 🌱 I’m currently working on a 3D game
 - 💞️ I’m looking to collaborate on python programmers
-- 📫 How to reach me ...
+- 📫 How to reach me: akshay.vs2005@gmail.com 
 
 <!---
 Akshay-Vs/Akshay-Vs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
