@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akshay-Vs
 - 👀 I’m interested in Python programming and game development
 - 🌱 I’m currently working on a 3D game
-- 💞️ I’m looking to collaborate on python programmers
+- 💞️  I’m looking to collaborate with python programmers
 - 📫 How to reach me: akshay.vs2005@gmail.com 
 
 <!---
