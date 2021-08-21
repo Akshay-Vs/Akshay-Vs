@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Vs</h1>
-<h3 align='center'>An Indie Student Devloper
+<h2 align='center'>An Indie Student Devloper</h2>
 
 - 🔭 I’m currently working on a **python module that automatically fixes some compilation errors**
 
