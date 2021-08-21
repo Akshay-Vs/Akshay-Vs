@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and stuff like that**
 
-- 👯 I’m looking to collaborate **with python programmers**
+- 👯 I’m looking to collaborate **with python programmers/Indie game devs**
 
 - 👨‍💻 All of my projects are available at [github.com/Akshay-Vs](github.com/Akshay-Vs)
 
