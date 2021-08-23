@@ -11,6 +11,10 @@
 
 - 💬 Ask me about **python,Blender3D,unity C#**
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshay-Vs&show_icons=true&theme=midnight-purple)
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/akshay_vs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshay_vs" height="30" width="40" /></a>
