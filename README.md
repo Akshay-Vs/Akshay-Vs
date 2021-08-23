@@ -11,7 +11,8 @@
 
 - 💬 Ask me about **python,Blender3D,unity C#**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshay-Vs&show_icons=true&theme=midnight-purple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshay-Vs&show_icons=true&hide=stars&theme=midnight-purple)
+
 
 
 
