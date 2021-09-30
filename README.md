@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshay Vs</h1>
 <h2 align='center'>A Student Indie Game Devloper</h2>
 
-- 🔭 I’m currently working on a **2D Game called Origine**
+- 🔭 I’m currently working on Multiple projects including a 2D game called **Origine**
 
 - 🌱 I’m currently learning **Machine Learning and stuff like that**
 
