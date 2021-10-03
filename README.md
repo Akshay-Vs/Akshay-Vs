@@ -39,4 +39,4 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshay-vs&theme=nord&column=3&margin-w=15&margin-h=15" alt="akshay-vs" /></a> </p>
 
-![](https://komarev.com/ghpvc/?username=Akshay-Vs)
+![](https://komarev.com/ghpvc/?username=Akshay-Vs&color=blueviolet&style=plastic)
