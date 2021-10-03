@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **python,Blender3D,unity C#**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-vs&" alt="akshay-vs" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-vs&theme=tokyonight_duo" alt="akshay-vs" /></p>
 
 
 
