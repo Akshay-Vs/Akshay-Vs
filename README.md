@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Multiple projects including a 2D game called **Origine**
 
-- 🌱 I’m currently learning **Machine Learning and stuff like that**
+- 🌱 I’m currently learning **Machine Learning and stuff like that...**
 
 - 👯 I’m looking to collaborate **with python programmers/Indie game devs**
 
