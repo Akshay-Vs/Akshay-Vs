@@ -37,6 +37,6 @@
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="30" height="30"/> </a> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshay-vs&theme=nord&column=3&margin-w=14&margin-h=14" alt="akshay-vs" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshay-vs&theme=nord&column=3&margin-w=14&margin-h=13" alt="akshay-vs" /></a> </p>
 
 ![](https://komarev.com/ghpvc/?username=Akshay-Vs&color=blueviolet&style=plastic)
