@@ -25,16 +25,17 @@ function(Akshay_Vs) {
   }
 ```
  <p>
-     &nbsp;&nbsp;<a herf="https://gmail.com/akshay.vs2005@gmail.com" alt="Gmail" target="_blank"><img align='center' src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20" width="87"/></a>
+     &nbsp;&nbsp;<a href="https://gmail.com/akshay.vs2005@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" width="87" height="20"/> </a>
      <a href="https://twitter.com/Akshayv69128812" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="akshay-vs" height="20" width="87" /></a>
-  
-  <a herf="https://instagram.com/__akshay_v5__" alt="Instagram" target="_blank"><img align='center' src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="20" width="87"/></a>
-  
+     <a href="https://www.instagram.com/__Akshay_v5__" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" width="87" height="20"/> </a>
      <a href="https://stackoverflow.com/users/akshay-vs" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="akshay-vs" height="20" width="87" /></a>
-     <a href="www.snapchat.com/add/Akshay_vs" target="blank"><img align="center" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" alt="akshay-vs" height="20" width="87" /></a>
-<br>
+     <a href="https://www.snapchat.com/add/Akshay_vs" target="_blank"><img align="center" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" alt="gmail" width="87" height="20"/> </a>
+  
+  <br>
 <br>
 
+  
+  
 <h3 align="right">Languages and Tools:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h3>
   
   
