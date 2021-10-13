@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **python,Blender3D,unity C#**
 <br>
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=akshay-Vs&theme=nord&column=3&margin-w=16&margin-h=16" alt="akshay-vs" /></a>
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=akshay-Vs&theme=nord&column=3&margin-w=15&margin-h=15" alt="akshay-vs" /></a>
 
 ```js
 function(Akshay_Vs) {
