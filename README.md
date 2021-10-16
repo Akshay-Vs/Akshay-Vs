@@ -58,6 +58,15 @@ function(Akshay_Vs) {
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.ruby-lang.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> 
 
+ <details>
+<summary>Recent works</summary>
+<pre>
+   <h3 align="center">Passlock</h3>
+  <img align="center" src="https://github.com/Akshay-Vs/PassLock/blob/main/.resources/images/Screenshot-1.png"/>
+  <b>Passlock is a password manager that encrypt and save passwords securly on your local machine</b>
+</pre>
+</details>
+
 
 <img src="https://komarev.com/ghpvc/?username=Akshay-Vs&color=blueviolet&style=plastic" alt="None"/> </a> </p>
 
