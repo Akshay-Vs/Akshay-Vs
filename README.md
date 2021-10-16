@@ -62,7 +62,7 @@ function(Akshay_Vs) {
 <summary>Recent works</summary>
 <pre>
    <h3 align="center">Passlock</h3>
-  <img align="center" src="https://github.com/Akshay-Vs/PassLock/blob/main/.resources/images/Screenshot-1.png"/>
+  <a herf="https://github.com/Akshay-Vs/PassLock"><img align="center" src="https://github.com/Akshay-Vs/PassLock/blob/main/.resources/images/Screenshot-1.png"/></a>
   <b>Passlock is a password manager that encrypt and save passwords securly on your local machine</b>
 </pre>
 </details>
