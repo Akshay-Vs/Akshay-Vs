@@ -59,7 +59,7 @@ function(Akshay_Vs) {
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.ruby-lang.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> 
 <br>
  <details>
-<summary>Recent works</summary>
+<summary>Recent Projects</summary>
 <pre>
    <h3 align="center">Passlock</h3>
   <a herf="https://github.com/Akshay-Vs/PassLock"><img align="center" src="https://github.com/Akshay-Vs/PassLock/blob/main/.resources/images/Screenshot-1.png"/></a>
