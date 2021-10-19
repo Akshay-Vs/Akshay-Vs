@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/Akshay-Vs](github.com/Akshay-Vs)
 
-- 💬 Ask me about **python,Blender3D,unity C#**
+- 💬 Ask me about **python,Blender3D, Unity, C#**
 <br>
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=akshay-Vs&theme=nord&column=3&margin-w=15&margin-h=15" alt="akshay-vs" /></a>
 
