@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Vs</h1>
-<h2 align='center'>A Student-Indie Game Developer</h2>
+<h2 align='center'>A Student-Indie Game Developers</h2>
 
 - 🔭 I’m currently working on Multiple projects including a 2D game called **Origine**
 
@@ -25,13 +25,15 @@ function(Akshay_Vs) {
   }
 ```
  <p>
-       &nbsp;<a href="mailto:akshay.vs2005@gmail.com?subject=Hello%20again" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" width="87" height="20"/> </a>
+     &nbsp;&nbsp;<a href="mailto:akshay.vs2005@gmail.com?subject=Hello%20again" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" width="87" height="20"/> </a>
      <a href="https://twitter.com/Akshayv69128812" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="akshay-vs" height="20" width="87" /></a>
      <a href="https://www.instagram.com/__Akshay_v5__" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" width="87" height="20"/> </a>
      <a href="https://stackoverflow.com/users/16265617/akshay-vs" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="akshay-vs" height="20" width="87" /></a>
      <a href="https://www.snapchat.com/add/__Akshay_v5__" target="_blank"><img align="center" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" alt="gmail" width="87" height="20"/> </a>
   
   <br>
+<br>
+
   
   
 <h3 align="right">Languages and Tools:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h3>  
@@ -69,5 +71,4 @@ function(Akshay_Vs) {
 
 <a align="center"> <img align="center" src="https://github.com/Akshay-Vs/Akshay-Vs/blob/output/github-contribution-grid-snake.svg"></a>
 </p>
-
 
