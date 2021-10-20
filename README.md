@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Vs</h1>
-<h2 align='center'>A Student-Indie Game Devloper</h2>
+<h2 align='center'>A Student-Indie Game Developer</h2>
 
 - 🔭 I’m currently working on Multiple projects including a 2D game called **Origine**
 
