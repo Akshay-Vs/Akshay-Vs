@@ -1,4 +1,4 @@
-<a href="https://github.com/users/follow?target=Akshay-Vs"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Hi%20👋,%20I'm%20Akshay%20Vs&fontSize=50&animation=fadeIn&fontAlignY=36&desc=🎮%20A%20Passionate%20Indie%20Game%20Developer%20And%20Student%20👨‍🎓&descAlignY=51&descAlign=62"/></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Hi%20👋,%20I'm%20Akshay%20Vs&fontSize=50&animation=fadeIn&fontAlignY=36&desc=🎮%20A%20Passionate%20Indie%20Game%20Developer%20And%20Student%20👨‍🎓&descAlignY=51&descAlign=62"/>
 <h1 align="center">About Me😎</h1>
  
 - 🔭 I’m currently working on Multiple projects including a 2D game called **Origine**
@@ -59,7 +59,7 @@ function(Akshay_Vs) {
 <summary>Recent Projects</summary>
 <pre>
    <h3 align="center">Passlock</h3>
-  <a herf="https://github.com/Akshay-Vs/PassLock"><img align="center" herf="https://github.com/Akshay-Vs/PassLock" src="https://github.com/Akshay-Vs/PassLock/blob/main/.resources/images/Screenshot-1.png"/></a>
+  <a href="https://github.com/Akshay-Vs/PassLock"><img align="center" herf="https://github.com/Akshay-Vs/PassLock" src="https://github.com/Akshay-Vs/PassLock/blob/main/.resources/images/Screenshot-1.png"/></a>
   <b>Passlock is a password manager that encrypt and save passwords securly on your local machine</b>
 </pre>
 </details>
