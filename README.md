@@ -57,6 +57,7 @@ function(Akshay_Vs) {
 <br>
  <details>
 <summary>Recent Projects</summary>
+  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a
 <pre>
    <h3 align="center">Passlock</h3>
   <a href="https://github.com/Akshay-Vs/PassLock"><img align="center" herf="https://github.com/Akshay-Vs/PassLock" src="https://github.com/Akshay-Vs/PassLock/blob/main/.resources/images/Screenshot-1.png"/></a>
