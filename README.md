@@ -1,15 +1,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Hi%20👋,%20I'm%20Akshay%20Vs&fontSize=50&animation=fadeIn&fontAlignY=36&desc=🎮%20A%20Passionate%20Indie%20Game%20Developer%20And%20Student%20👨‍🎓&descAlignY=51&descAlign=62"/>
 <h1 align="center">About Me😎</h1>
- <img align="right" src="https://i.imgur.com/1AMqiST.gif" height=20% width=20%/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-- 🔭 I’m currently working on Multiple projects including a 2D game called **Origine**
+<img align="right" src="https://i.imgur.com/1AMqiST.gif" height=20% width=20%/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
 
-- 🌱 I’m currently learning **Machine Learning and stuff like that...**
+&bull; 🔭 I’m currently working on Multiple projects including a 2D game called **Origine**<br>
 
-- 👯 I’m looking to collaborate **with python programmers/Indie game devs**
+&bull; 🌱 I’m currently learning **Machine Learning and stuff like that...**<br>
 
-- 👨‍💻 All of my projects are available at [github.com/Akshay-Vs](github.com/Akshay-Vs)
+&bull; 👯 I’m looking to collaborate **with python programmers/Indie game devs**<br>
 
-- 💬 Ask me about **python,Blender3D, Unity, C#**
+&bull; 👨‍💻 All of my projects are available at [github.com/Akshay-Vs](github.com/Akshay-Vs)<br>
+
+&bull; 💬 Ask me about **python,Blender3D, Unity, C#**<br>
 <br>
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=akshay-Vs&theme=nord&column=3&margin-w=15&margin-h=15" alt="akshay-vs" /></a>
 
