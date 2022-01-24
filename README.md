@@ -12,8 +12,7 @@
 
 &bull; 💬 Ask me about **python,Blender3D, Unity, C#**<br>
 <br>
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=akshay-Vs&theme=nord&column=3&margin-w=16&margin-h=15" alt="akshay-vs" /></a>
-
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=akshay-Vs&theme=nord&column=3&margin-w=6&margin-h=5&title=Followers,Stars,MultiLanguage,Commit,Repo,PullRequest" alt="akshay-vs" /></a>
 ```js
 function(Akshay_Vs) {
   var username = "Akshay-Vs"
