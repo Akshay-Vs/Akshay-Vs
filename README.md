@@ -16,8 +16,8 @@
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=akshay-Vs&theme=nord&column=3&margin-w=5.1&margin-h=6&title=Followers,Stars,MultiLanguage,Commit,Repo,PullRequest&noframe=true" alt="akshay-vs" /></a>
 ```js
 function(Akshay_Vs) {
-  var username = "Akshay-Vs"
-  var job      = "Student"
+  let username = "Akshay-Vs"
+  let job      = "Student"
   
   const intrested_in = ["Machine_Learning","Game_developing",
                        "Quantum_Physics","Robotics"]
