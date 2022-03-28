@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Hi%20👋,%20I'm%20Akshay%20Vs&fontSize=50&animation=fadeIn&fontAlignY=36&desc=🎮%20A%20Passionate%20Indie%20Game%20Developer%20And%20Student%20👨‍🎓&descAlignY=51&descAlign=62"/>
 <h1 align="center">About Me😎</h1>
-<img align="right" src="https://i.imgur.com/1AMqiST.gif" height=20% width=20%/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+<img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans/30837096/d4d76a7ab85a35e342ed73d58546e5a51cf3b8df.gif" height=30% width=26% opacity=10%/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 
 
 &bull; 🔭 I’m currently working on Multiple projects including a 2D game called **AVA-The Alone Princess**<br>
