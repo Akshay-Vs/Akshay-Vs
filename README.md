@@ -17,10 +17,10 @@
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=akshay-Vs&theme=nord&column=3&margin-w=5.12&margin-h=6&title=Followers,Stars,MultiLanguage,Commit,Repo,PullRequest&noframe=true" alt="akshay-vs" /></a>
 ```js
 function(Bio) {
-  let username = "Akshay-Vs"
-  let job      = "Student"
+  let Username = "Akshay-Vs"
+  let Proffession      = "Student"
   
-  const intrested_in = ["Machine_Learning","Game_developing",
+  const Intrested_In = ["Machine_Learning","Game_developing",
                        "Quantum_Physics","Robotics"]
   
   const Tools_Using = ["Visual_Studio","Unity","Vim","Tensoflow"]
