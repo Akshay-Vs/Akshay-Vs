@@ -23,7 +23,7 @@ function(Bio) {
   const Intrested_In = ["Machine_Learning","Game_developing",
                        "Quantum_Physics","Robotics"]
   
-  const Tools_Using = ["Visual_Studio","Unity","Vim","Tensoflow"]
+  const Tools_Using = ["Visual_Studio","Unity","Vim","Tensorflow"]
   }
 ```
  <p>
