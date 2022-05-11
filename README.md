@@ -2,8 +2,6 @@
 <h1 align="center">About Me😎</h1>
 <img align="right" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans/30837096/d4d76a7ab85a35e342ed73d58546e5a51cf3b8df.gif" height=30% width=26% opacity=10%/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 
-
-
 &bull; 🔭 I’m currently working on Multiple projects including a 2D game called **AVA-The Alone Princess**<br>
 
 &bull; 🌱 I’m currently learning **Machine Learning and stuff like that...**<br>
