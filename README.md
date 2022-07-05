@@ -70,7 +70,7 @@ function(Bio) {
     <b>This is a test website</b>
     <br>
  </pre>
-  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a
+  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
  <pre>
       <h3 align="center">MVC-Calc-01</h3>
      <img src="https://github.com/Akshay-Vs/resources/blob/main/images/MVC-Calc.png?raw=true" height="100%" width="97%"/>
@@ -79,7 +79,7 @@ function(Bio) {
  </pre>
  
  <a href="https://github.com/Akshay-Vs/Akshay-Vs/blob/main/Projects/Ptojects.md"><h3 align="center">See more →</h3></a>
- <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a
+ <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 </details>
 
