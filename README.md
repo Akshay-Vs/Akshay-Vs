@@ -72,9 +72,11 @@ function(Bio) {
  </pre>
   <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
  <pre>
-      <h3 align="center">MVC-Calc</h3>
-     <img src="https://github.com/Akshay-Vs/resources/blob/main/images/MVC-Calc.png?raw=true" height="100%" width="97%"/>
-     <b>Currently working on this web application</b>
+        <h3 align="center">MVC-Calc</h3>
+        <a href="https://github.com/Akshay-Vs/MVC-Calc"> 
+          <img src="https://github.com/Akshay-Vs/resources/blob/main/images/MVC-Calc.png?raw=true" height="100%" width="97%"/>
+        </a>
+        <b>A Calculator Web-App Made with ASP .Net MVC</b>
      <br>
  </pre>
  
