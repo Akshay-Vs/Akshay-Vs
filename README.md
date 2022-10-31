@@ -17,7 +17,7 @@
 ```js
 function(Bio) {
   let Username = "Akshay-Vs"
-  let Profession      = "Student"
+  let Profession = "Student"
   
   const Intrested_In = ["Machine_Learning","Game_developing",
                        "Quantum_Physics","Robotics"]
