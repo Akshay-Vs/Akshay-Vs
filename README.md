@@ -15,7 +15,7 @@
 <br>
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=akshay-Vs&theme=nord&column=3&margin-w=5.12&margin-h=6&title=Followers,Stars,MultiLanguage,Commit,Repo,PullRequest&noframe=true" alt="akshay-vs" /></a>
 ```js
-function(Bio) {
+function Bio() {
   let Username = "Akshay-Vs"
   let Profession = "Student"
   
