@@ -3,7 +3,7 @@
   
 <h1 align="center">About Me😎</h1> 
 
-&bull; 🔭 I’m currently working on Multiple projects including a 2D game called <b>AVA-The Alone Princess</b><br>
+&bull; 🔭 I’m currently working on Multiple projects including a 3D game
 
 &bull; 🌱 I’m currently learning **Machine Learning and stuff like that...**<br>
 
@@ -12,6 +12,8 @@
 &bull; 👨‍💻 All of my projects are available at [github.com/Akshay-Vs](github.com/Akshay-Vs)<br>
 
 &bull; 💬 Ask me about **python,Blender3D, Unity, C#**<br>
+
+&bull; 🔎 Visit <a href="https://www.akshayvs.me" target="_blank"> akshayvs.me </a> for more
 <br>
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=akshay-Vs&theme=nord&column=3&margin-w=5.12&margin-h=6&title=Followers,Stars,MultiLanguage,Commit,Repo,PullRequest&noframe=true" alt="akshay-vs" /></a>
 ```js
