@@ -1,21 +1,22 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Hi%20👋,%20I'm%20Akshay%20Vs&fontSize=50&animation=fadeIn&fontAlignY=36&desc=🎮%20A%20Passionate%20Indie%20Game%20Developer%20And%20Student%20👨‍🎓&descAlignY=51&descAlign=62"/>
+<a align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Hi%20👋,%20I'm%20Akshay%20Vs&fontSize=50&animation=fadeIn&fontAlignY=36&desc=🎮%20A%20Passionate%20Indie%20Game%20Developer%20And%20Student%20👨‍🎓&descAlignY=51&descAlign=62"><a/>
   
   
 <h1 align="center">About Me😎</h1> 
+  &bull; 🔭 I’m currently working on Multiple projects including a 3D game
 
-&bull; 🔭 I’m currently working on Multiple projects including a 3D game
+  &bull; 🌱 I’m currently learning **Machine Learning and stuff like that...**<br>
 
-&bull; 🌱 I’m currently learning **Machine Learning and stuff like that...**<br>
+  &bull; 👯 I’m looking to collaborate **with python programmers/Indie game devs**<br>
 
-&bull; 👯 I’m looking to collaborate **with python programmers/Indie game devs**<br>
+  &bull; 👨‍💻 All of my projects are available at [github.com/Akshay-Vs](github.com/Akshay-Vs)<br>
 
-&bull; 👨‍💻 All of my projects are available at [github.com/Akshay-Vs](github.com/Akshay-Vs)<br>
+  &bull; 💬 Ask me about **python,Blender3D, Unity, C#**<br>
 
-&bull; 💬 Ask me about **python,Blender3D, Unity, C#**<br>
-
-&bull; 🔎 Visit <a href="https://www.akshayvs.me" target="_blank"> akshayvs.me </a> for more
-<br>
+  &bull; 🔎 Visit <a href="https://www.akshayvs.me" target="_blank"> akshayvs.me </a> for more
+ <br>
+  
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=akshay-Vs&theme=nord&column=3&margin-w=5.12&margin-h=6&title=Followers,Stars,MultiLanguage,Commit,Repo,PullRequest&noframe=true" alt="akshay-vs" /></a>
+
 ```js
 function Bio() {
   let Username = "Akshay-Vs"
@@ -57,6 +58,15 @@ function Bio() {
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.ruby-lang.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> 
 <br>
+  ------
+<br>
+  <div align="center">
+   <img src="https://thumbs.gfycat.com/BossyAntiqueHippopotamus-size_restricted.gif" width="30%">
+  <img src="https://thumbs.gfycat.com/BossyAntiqueHippopotamus-size_restricted.gif" width="30%">
+  <img src="https://thumbs.gfycat.com/BossyAntiqueHippopotamus-size_restricted.gif" width="30%"> 
+   </div>
+ <br>
+  
  <details>
 <summary>Recent Projects</summary>
   <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a
@@ -89,10 +99,14 @@ function Bio() {
 
 </details>
 
+  <img src="https://thumbs.gfycat.com/FreshAltruisticAnemone-size_restricted.gif" height="8" width="100%" align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Akshay-Vs&color=blueviolet&style=plastic" alt="None"/> </a> </p>
-
-
+<div align="center">
+  <img src="https://github.com/Akshay-Vs/resources/blob/main/images/github-wrapped-lang.png?raw=true" alt="Most used language" width="30.14%"  margin="5">
+  <img src="https://github.com/Akshay-Vs/resources/blob/main/images/github-wrapped-time.png?raw=true" alt="Avrg contribution time" width="30%"  margin="5">
+  <img src="https://github.com/Akshay-Vs/resources/blob/main/images/github-wrapped-type.png?raw=true" alt="Type of contibutions" width="30.7%"  margin="5">
+</div>
 <a align="center"> <img align="center" src="https://github.com/Akshay-Vs/Akshay-Vs/blob/output/github-contribution-grid-snake.svg"></a>
+<img src="https://komarev.com/ghpvc/?username=Akshay-Vs&color=blueviolet&style=plastic""/> </a> </p>
 </p>
 
