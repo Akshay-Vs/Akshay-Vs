@@ -2,7 +2,7 @@
   
   
 <h1 align="center">About Me😎</h1> 
-  &bull; 🔭 I’m currently working on Multiple projects including a 3D game <br>
+  &bull; 🔭 I’m currently working on Multiple projects including a 3D game <br> <br>
 
   &bull; 🌱 I’m currently learning **Machine Learning and stuff like that...**<br>
 
