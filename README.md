@@ -15,7 +15,7 @@
   &bull; 🔎 Visit <a href="https://www.akshayvs.me" target="_blank"> akshayvs.me </a> for more
  <br>
   
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=akshay-Vs&theme=nord&column=3&margin-w=5.12&margin-h=6&title=Followers,Stars,MultiLanguage,Commit,Repo,PullRequest&noframe=true" alt="akshay-vs" /></a>
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=akshay-Vs&theme=nord&column=3&margin-w=5.11&margin-h=6&title=Followers,Stars,MultiLanguage,Commit,Repo,PullRequest&noframe=true" alt="profile-trophy" /></a>
 
 ```js
 function Bio() {
