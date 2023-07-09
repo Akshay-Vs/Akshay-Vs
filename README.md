@@ -1,16 +1,16 @@
-<a align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Hi%20👋,%20I'm%20Akshay%20Vs&fontSize=50&animation=fadeIn&fontAlignY=36&desc=🎮%20A%20Passionate%20Indie%20Game%20Developer%20And%20Student%20👨‍🎓&descAlignY=51&descAlign=62"><a/>
+<a align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Hi%20👋,%20I'm%20Akshay%20Vs&fontSize=50&animation=fadeIn&fontAlignY=36&desc=👨‍💻%20A%20Passionate%20Full%20Stack%20Developer%20And%20Student%20👨‍🎓&descAlignY=51&descAlign=62"><a/>
   
   
 <h1 align="center">About Me😎</h1> 
-  &bull; 🔭 I’m currently working on Multiple projects including a 3D game <br> <br>
+  &bull; 🔭 I’m currently working on Front end, Mobile projects <br> <br>
 
-  &bull; 🌱 I’m currently learning **Machine Learning and stuff like that...**<br>
+  &bull; 🌱 I’m currently learning **MERN Stack...**<br>
 
-  &bull; 👯 I’m looking to collaborate **with python programmers/Indie game devs**<br>
+  &bull; 👯 I’m looking to collaborate **Web developers**<br>
 
   &bull; 👨‍💻 All of my projects are available at [github.com/Akshay-Vs](github.com/Akshay-Vs)<br>
 
-  &bull; 💬 Ask me about **python,Blender3D, Unity, C#**<br>
+  &bull; 💬 Ask me about **python, Unity, C#, Typescript**<br>
 
   &bull; 🔎 Visit <a href="https://www.akshayvs.me" target="_blank"> akshayvs.me </a> for more
  <br>
@@ -18,14 +18,13 @@
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=akshay-Vs&theme=nord&column=3&margin-w=5.11&margin-h=6&title=Followers,Stars,MultiLanguage,Commit,Repo,PullRequest&noframe=true" alt="profile-trophy" /></a>
 
 ```js
-function Bio() {
+const Bio = () => {
   let Username = "Akshay-Vs"
   let Profession = "Student"
   
-  const Intrested_In = ["Machine_Learning","Game_developing",
-                       "Quantum_Physics","Robotics"]
-  
-  const Tools_Using = ["Visual_Studio","Unity","Vim","Tensorflow"]
+  const Tools_Using = ["Visual_Studio","Unity","Vim"]
+
+  const FrameWorks = ["NextJS", "Tensorflow", "ASP.Net"]
   }
 ```
  <p>
