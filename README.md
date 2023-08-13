@@ -65,18 +65,25 @@ const Bio = () => {
   <img src="https://3.bp.blogspot.com/-OV7EzcTdOE0/Wj6kx-JZdmI/AAAAAAAAJws/BE9j1Sv4wFAEV4zTMO-5yXao2U20zUYMACLcBGAs/s1600/fsociety_9.gif?raw=true" height=200 width="30%"> 
    </div>
  <br>
-  
  <details>
 <summary>Recent Projects</summary>
+   
   <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a
 <pre>
   <h3 align="center">Passlock</h3>
   <a href="https://github.com/Akshay-Vs/PassLock"><img align="center" herf="https://github.com/Akshay-Vs/PassLock" src="https://github.com/Akshay-Vs/PassLock/blob/main/.resources/images/Screenshot-1.png" height="100%" width="97%"/></a>
-  <b>Passlock is a password manager that encrypt and save passwords securly on your local machine</b>
+  <b><br>Passlock is a password manager that encrypt and save passwords securly on your local machine</b>
   <br>
 </pre>
-  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a
+   <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a
+   <pre>
+    <h3 align="center" href="https://github.com/Akshay-Vs/Web-Project-01">EcoTrack</h3>
+    <a href="https://akshay-vs.github.io/Web-Project-01/"><img align="center" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/545/544/datas/original.png" height="100%" width="97%"> </a>
+    <b><br>EcoTrack is a user-friendly web application empowering individuals to reduce their carbon footprint and embrace <br> sustainable practices.</b>
+    <br>
+ </pre>
 
+  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a
    <pre>
     <h3 align="center" href="https://github.com/Akshay-Vs/Web-Project-01">Webpage-01</h3>
     <a href="https://akshay-vs.github.io/Web-Project-01/"><img align="center" src="https://github.com/Akshay-Vs/resources/blob/main/images/WebSite01.png" height="100%" width="97%"> </a>
