@@ -4,7 +4,7 @@
 <h1 align="center">About Me😎</h1> 
   &bull; 🔭 I’m currently working on Front end, Mobile projects <br> <br>
 
-  &bull; 🌱 I’m currently learning **MERN Stack...**<br>
+  &bull; 🌱 I’m currently learning **Full Stack Webdesign...**<br>
 
   &bull; 👯 I’m looking to collaborate **Web developers**<br>
 
