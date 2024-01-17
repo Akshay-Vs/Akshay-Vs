@@ -2,9 +2,9 @@
   
   
 <h1 align="center">About Me😎</h1> 
-  &bull; 🔭 I’m currently working on Front end, Mobile projects <br> <br>
+  &bull; 🔭 Hello world! I'm an 18YO  self-taught developer<br> <br>
 
-  &bull; 🌱 I’m currently learning **Full Stack development...**<br>
+  &bull; 🌱 I’m currently working on **Full Stack projects...**<br>
 
   &bull; 👯 I’m looking to collaborate **Web developers**<br>
 
