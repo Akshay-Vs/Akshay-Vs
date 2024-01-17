@@ -60,7 +60,7 @@ const Bio = () => {
   -----
 <br>
   <div align="center">
-   <img src="https://cdnl.iconscout.com/lottie/premium/thumb/teamwork-web-design-5513360-4625684.gif" height=200 width="30%">
+   <img src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" height=200 width="30%">
   <img src="https://media.giphy.com/media/Pq9XWZjaZNDHvgqYIZ/giphy.gif?raw=true" height=200 width="30%">
   <img src="https://3.bp.blogspot.com/-OV7EzcTdOE0/Wj6kx-JZdmI/AAAAAAAAJws/BE9j1Sv4wFAEV4zTMO-5yXao2U20zUYMACLcBGAs/s1600/fsociety_9.gif?raw=true" height=200 width="30%"> 
    </div>
