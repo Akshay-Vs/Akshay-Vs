@@ -10,6 +10,8 @@
 
   &bull; 👨‍💻 All of my projects are available at [github.com/Akshay-Vs](github.com/Akshay-Vs)<br>
 
+  &bull; 📝 Read my [blogs](https://medium.com/@digital.talker)<br>
+
   &bull; 💬 Ask me about **python, Unity, C#, Typescript**<br>
 
   &bull; 🔎 Visit <a href="https://www.akshayvs.me" target="_blank"> akshayvs.me </a> for more
