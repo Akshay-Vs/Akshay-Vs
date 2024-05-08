@@ -2,7 +2,7 @@
 
 <h1 align="center">About Me😎</h1>    
   &bull; 🔭 Hello world! I'm an self-taught developer<br> <br>
-
+ 
   &bull; 🌱 I’m currently working on **Full Stack projects...**<br>
 
   &bull; 👯 I’m looking to collaborate **Web developers**<br>
