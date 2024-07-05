@@ -21,11 +21,10 @@ const Bio = () => {
     <a href="https://www.instagram.com/akshay._.vs__/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="__akshay_v5"__ height="20" width="83" /></a>
     <a href="https://stackoverflow.com/users/16265617/akshay-vs" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="akshay-vs" height="20" width="83" /></a>
     <a href="https://linktr.ee/akshay_vs" target="_blank" rel="noreferrer noopener"><img align="center" src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="linktree" width="85" height="20"/> </a>
-    <br>
 </p>
 <div align="left">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-vs&theme=tokyonight_duo" width="58%" height=300/>
-    <img align="right" src="https://github-profile-trophy.vercel.app/?username=akshay-vs&theme=nord&column=3&margin-w=5.11&margin-h=6&title=Followers,Stars,MultiLanguage,Commit,Repo,PullRequest&noframe=true" alt="profile-trophy" width="38%" height=300/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-vs&theme=tokyonight_duo" width="58%" height=260/>
+    <img align="right" src="https://github-profile-trophy.vercel.app/?username=akshay-vs&theme=nord&column=3&margin-w=5.11&margin-h=6&title=Followers,Stars,MultiLanguage,Commit,Repo,PullRequest&noframe=true" alt="profile-trophy" width="38%" height=260/>
     <br/>
     <h1 align="center">BTW, I Use Arch 💪</h1>
 </div>
