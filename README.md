@@ -8,7 +8,7 @@ const Addons = {
     isNerd: false,
     makeBugs: true,
     drinkCoffee: "recursive"
-}
+    }
 }
 ```
 <p>
