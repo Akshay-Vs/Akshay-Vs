@@ -2,12 +2,12 @@
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=akshay-vs&theme=nord&column=3&margin-w=5.11&margin-h=6&title=Followers,Stars,MultiLanguage,Commit,Repo,PullRequest&noframe=true" alt="profile-trophy" /></a>
 ```js
 const Bio = () => {
-const Username = "Akshay-Vs"
-const Stack = ['M','E','R','N']
-const Addons = {
-    isNerd: false,
-    makeBugs: true,
-    drinkCoffee: "recursive"
+    const Username = "Akshay-Vs"
+    const Stack = ['M','E','R','N']
+    const Addons = {
+        isNerd: false,
+        makeBugs: true,
+        drinkCoffee: "recursive"
     }
 }
 ```
