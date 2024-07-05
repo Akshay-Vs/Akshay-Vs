@@ -1,5 +1,8 @@
 <a align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Hi%20👋,%20I'm%20Akshay%20Vs&fontSize=50&animation=fadeIn&fontAlignY=36&desc=👨‍💻%20A%20Passionate%20Full%20Stack%20Developer%20And%20Student%20👨‍🎓&descAlignY=51&descAlign=62"><a/>
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=akshay-vs&theme=nord&column=3&margin-w=5.11&margin-h=6&title=Followers,Stars,MultiLanguage,Commit,Repo,PullRequest&noframe=true" alt="profile-trophy" /></a>
+
+<div align="center">
+<img align="right" src="https://miro.medium.com/v2/resize:fit:1358/1*a-HMmQFQNC76zCZBZfFgJg.gif" height=210 width="40%"/>
+    
 ```js
 const Bio = () => {
     const Username = "Akshay-Vs"
@@ -11,6 +14,8 @@ const Bio = () => {
     }
 }
 ```
+
+</div>
 <p>
     <a href="mailto:akshay.vs2005@gmail.com?subject=Hello%20again" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" width="85" height="20"/> </a>
     <a href="https://twitter.com/Akshay_vs__" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="akshay-vs" height="20" width="83" /></a>
@@ -22,7 +27,7 @@ const Bio = () => {
 </p>
 <div align="left">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-vs&theme=tokyonight_duo" alt="akshay-vs" />
-    <img align="center" src="https://miro.medium.com/v2/resize:fit:1358/1*a-HMmQFQNC76zCZBZfFgJg.gif" height=200 width="40%"/>
+    <img align="right" src="https://github-profile-trophy.vercel.app/?username=akshay-vs&theme=nord&column=3&margin-w=5.11&margin-h=6&title=Followers,Stars,MultiLanguage,Commit,Repo,PullRequest&noframe=true" alt="profile-trophy" />
     <h1 align="center">BTW, I Use Arch 💪</h1>
 </div>
 <br>
