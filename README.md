@@ -113,7 +113,7 @@ const Bio = () => {
   <img src="https://github.com/Akshay-Vs/resources/blob/main/images/github-wrapped-time.png?raw=true" alt="Avrg contribution time" width="30%"  margin="5">
   <img src="https://github.com/Akshay-Vs/resources/blob/main/images/github-wrapped-type.png?raw=true" alt="Type of contibutions" width="30.7%"  margin="5">
 </div>
-<img src="https://raw.githubusercontent.com/Akshay-Vs/Akshay-Vs/8ce2964ebae4f9590be83ce7d2c965f571a2b45d/github-contribution-grid-snake.svg" width="100%" align="center">
+<img src="https://raw.githubusercontent.com/Akshay-Vs/Akshay-Vs/8ce2964ebae4f9590be83ce7d2c965f571a2b45d/github-contribution-grid-snake-dark.svg" width="100%" align="center">
 <img src="https://komarev.com/ghpvc/?username=Akshay-Vs&color=blueviolet&style=plastic"/> </a> </p>
 </p>
 
