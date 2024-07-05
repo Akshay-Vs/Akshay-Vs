@@ -1,7 +1,7 @@
 <a align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Hi%20👋,%20I'm%20Akshay%20Vs&fontSize=50&animation=fadeIn&fontAlignY=36&desc=👨‍💻%20A%20Passionate%20Full%20Stack%20Developer%20And%20Student%20👨‍🎓&descAlignY=51&descAlign=62"><a/>
 
 <div align="center">
-<img align="right" src="https://miro.medium.com/v2/resize:fit:1358/1*a-HMmQFQNC76zCZBZfFgJg.gif" height=210 width="40%"/>
+<img align="right" src="https://miro.medium.com/v2/resize:fit:1358/1*a-HMmQFQNC76zCZBZfFgJg.gif" height=180 width="40%"/>
     
 ```js
 const Bio = () => {
@@ -26,8 +26,8 @@ const Bio = () => {
     <br>
 </p>
 <div align="left">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-vs&theme=tokyonight_duo" alt="akshay-vs" />
-    <img align="right" src="https://github-profile-trophy.vercel.app/?username=akshay-vs&theme=nord&column=3&margin-w=5.11&margin-h=6&title=Followers,Stars,MultiLanguage,Commit,Repo,PullRequest&noframe=true" alt="profile-trophy" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-vs&theme=tokyonight_duo" width="60%" />
+    <img align="right" src="https://github-profile-trophy.vercel.app/?username=akshay-vs&theme=nord&column=3&margin-w=5.11&margin-h=6&title=Followers,Stars,MultiLanguage,Commit,Repo,PullRequest&noframe=true" alt="profile-trophy" width="40%"/>
     <h1 align="center">BTW, I Use Arch 💪</h1>
 </div>
 <br>
