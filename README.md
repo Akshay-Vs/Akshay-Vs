@@ -3,9 +3,12 @@
 ```js
 const Bio = () => {
 let Username = "Akshay-Vs"
-let Profession = "Student"
-const Tools_Using = ["Visual_Studio","Unity","Vim"]
-const FrameWorks = ["NextJS", "Tensorflow", "ASP.Net"]
+const Stack = ['M','E','R','N']
+const Addons = {
+    isNerd: false,
+    makeBugs: true,
+    drinkCoffee: "recursive"
+}
 }
 ```
 <p>
