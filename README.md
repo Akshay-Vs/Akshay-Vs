@@ -19,7 +19,7 @@ const FrameWorks = ["NextJS", "Tensorflow", "ASP.Net"]
 </p>
 <div align="left">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-vs&theme=tokyonight_duo" alt="akshay-vs" />
-    <img align="center" src="https://miro.medium.com/v2/resize:fit:1358/1*a-HMmQFQNC76zCZBZfFgJg.gif" height=200/>
+    <img align="center" src="https://miro.medium.com/v2/resize:fit:1358/1*a-HMmQFQNC76zCZBZfFgJg.gif" height=200 width="40%"/>
     <h1 align="center">BTW, I Use Arch</h1>
 </div>
 <br>
