@@ -6,8 +6,8 @@ const Bio = () => {
     const Stack = ['M','E','R','N']
     const Addons = {
         isNerd: false,
-        makeBugs: true,
-        drinkCoffee: "recursive"
+        makesBugs: true,
+        drinkCoffee: "recursively"
     }
 }
 ```
