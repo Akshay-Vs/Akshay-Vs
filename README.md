@@ -33,7 +33,8 @@ const Bio = () => {
 <hr/>
 <br/>
 
-### Blogs posts
+<h2 align="left"> Read My Latest Blogs 📚🎧☕</h3>
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
