@@ -29,7 +29,7 @@ const Bio = () => {
 </div>
 <div align="left">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-vs&theme=tokyonight_duo" width="58%" height=260/>
-    <img align="right" src="https://github-profile-trophy.vercel.app/?username=akshay-vs&theme=nord&column=3&margin-w=5.11&margin-h=6&title=Followers,Stars,MultiLanguage,Commit,Repo,PullRequest&noframe=true" alt="profile-trophy" width="38%" height=260/>
+    <img align="right" src="https://github-profile-trophy.vercel.app/?username=akshay-vs&theme=nord&column=3&margin-w=5.11&margin-h=6&title=Followers,Stars,MultiLanguage,Commit,Experience,PullRequest&noframe=true" alt="profile-trophy" width="38%" height=260/>
 </div>
 </details>
 
