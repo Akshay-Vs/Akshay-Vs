@@ -13,15 +13,12 @@ const Bio = () => {
 }
 ``` 
 
-<br/>
-
 <p align='center'>
     <a href="mailto:akshay.vs2005@gmail.com?subject=Hello%20again" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" width="100" height="30"/> </a>
     <a href="https://twitter.com/Akshay_vs__" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="akshay-vs" height="30" width="120" /></a>
     <a href="https://www.instagram.com/akshay._.vs__/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="__akshay_v5"__ height="30" width="120" /></a>
     <a href="https://linktr.ee/akshay_vs" target="_blank" rel="noreferrer noopener"><img align="center" src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="linktree" width="120" height="30"/> </a>
 </p>
-<br/>
 
 <div align="left">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-vs&theme=tokyonight_duo" width="58%" height=260/>
