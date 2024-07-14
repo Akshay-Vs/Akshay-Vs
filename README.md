@@ -42,6 +42,9 @@ const Bio = () => {
 - [Become a Pro programmer: 10 Tips and Strategies for Improving Your Coding Skills](https://medium.com/codex/become-a-pro-programmer-10-tips-and-strategies-for-improving-your-coding-skills-75863d589533?source=rss-e5a58e5baf27------2)
 <!-- BLOG-POST-LIST:END -->
 
+<br/>
+<hr/>
+<br/>
 <h1 align="center">BTW, I Use Arch 💪</h1>
 <div align="center">
     <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a7717328-6939-46dc-b54f-93eb0fd051d9/d9t8coa-68b88586-cf26-468d-95fa-e388564b879e.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E3NzE3MzI4LTY5MzktNDZkYy1iNTRmLTkzZWIwZmQwNTFkOVwvZDl0OGNvYS02OGI4ODU4Ni1jZjI2LTQ2OGQtOTVmYS1lMzg4NTY0Yjg3OWUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.D2JeccFU5EYaa8D8yasPABUjxYRG2p63PfU0d0Ay2Qg" height=200 width="30%">
