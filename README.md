@@ -20,19 +20,19 @@ const Bio = () => {
 </p>
 
 <h2 align="left"> Stats 📈📊</h3>
-<div>
+<div align="left">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-vs&theme=tokyonight_duo" width="58%" height=260/>
+    <img align="right" src="https://github-profile-trophy.vercel.app/?username=akshay-vs&theme=nord&column=3&margin-w=5.11&margin-h=6&title=Followers,Stars,MultiLanguage,Commit,Repo,PullRequest&noframe=true" alt="profile-trophy" width="38%" height=260/>
+</div>
+ <div>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=akshay-vs&show_icons=true&locale=en&theme=radical" alt="akshay-vs" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay-vs&show_icons=true&locale=en&layout=compact&theme=radical" alt="akshay-vs" />
 </div>
 
-<div align="left">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-vs&theme=tokyonight_duo" width="58%" height=260/>
-    <img align="right" src="https://github-profile-trophy.vercel.app/?username=akshay-vs&theme=nord&column=3&margin-w=5.11&margin-h=6&title=Followers,Stars,MultiLanguage,Commit,Repo,PullRequest&noframe=true" alt="profile-trophy" width="38%" height=260/>
-    <hr/>
-    <br/>
-    <br/>
-    <h1 align="center">BTW, I Use Arch 💪</h1>
-</div>
+<br/>
+<hr/>
+<br/>
+<h1 align="center">BTW, I Use Arch 💪</h1>
 <div align="center">
     <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a7717328-6939-46dc-b54f-93eb0fd051d9/d9t8coa-68b88586-cf26-468d-95fa-e388564b879e.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E3NzE3MzI4LTY5MzktNDZkYy1iNTRmLTkzZWIwZmQwNTFkOVwvZDl0OGNvYS02OGI4ODU4Ni1jZjI2LTQ2OGQtOTVmYS1lMzg4NTY0Yjg3OWUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.D2JeccFU5EYaa8D8yasPABUjxYRG2p63PfU0d0Ay2Qg" height=200 width="30%">
     <img src="https://media.giphy.com/media/Pq9XWZjaZNDHvgqYIZ/giphy.gif?raw=true" height=200 width="30%">
