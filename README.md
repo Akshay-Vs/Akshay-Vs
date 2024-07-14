@@ -1,7 +1,7 @@
-<a align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Hi%20👋,%20I'm%20Akshay%20Vs&fontSize=50&animation=fadeIn&fontAlignY=36&desc=👨‍💻%20A%20Passionate%20Full%20Stack%20Developer%20And%20Student%20👨‍🎓&descAlignY=51&descAlign=62"><a/>
-<div align="left"> 
-<img align="right" src="https://miro.medium.com/v2/resize:fit:1358/1*a-HMmQFQNC76zCZBZfFgJg.gif" height=180 width="40%"/>
-     
+<h1 align="center">👋 Hello World!, I'm Akshay Vs</h1>
+<h3 align="center"> ⚛ React.js | </> Next.js | 🖥️ Node.js | 🐧 Linux Enthusiast | 🌍 Open-Source Contributor</h3>
+<h3 align="center"> 🌟 Revolutionizing the web since 2019! 🚀</h3>
+
 ```js
 const Bio = () => {
     const Username = "Akshay-Vs"
