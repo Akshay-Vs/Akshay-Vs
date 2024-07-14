@@ -33,27 +33,19 @@ const Bio = () => {
 <hr/>
 <br/>
 
-<h2 align="left"> Read My Latest Blogs 📚🎧☕</h3>
 
+<details>
+    <summary><h2 align="left"> Latest Blogs 📚🎧☕</h3></summary>
 <!-- BLOG-POST-LIST:START -->
 - [Become a Pro Programmer: 10 Tips and Strategies for Improving Your Coding Skills](https://dev.to/akshayvs/become-a-pro-programmer-10-tips-and-strategies-for-improving-your-coding-skills-2364)
 - [8 Steps to Become a Linux Geek &lpar;A Penguin Guide&rpar;](https://medium.com/codex/8-steps-to-become-a-linux-geek-a-penguin-guide-8a02947b2517?source=rss-e5a58e5baf27------2)
 - [Upscale Your Machine Learning Skills: A Beginner’s Guide to Building High-Accuracy Neural Networks](https://ai.plainenglish.io/upscale-your-machine-learning-skills-a-beginners-guide-to-building-high-accuracy-neural-networks-3edbeaf19228?source=rss-e5a58e5baf27------2)
 - [Become a Pro programmer: 10 Tips and Strategies for Improving Your Coding Skills](https://medium.com/codex/become-a-pro-programmer-10-tips-and-strategies-for-improving-your-coding-skills-75863d589533?source=rss-e5a58e5baf27------2)
 <!-- BLOG-POST-LIST:END -->
+</details>
 
-<br/>
-<hr/>
-<br/>
-<h1 align="center">BTW, I Use Arch 💪</h1>
-<div align="center">
-    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a7717328-6939-46dc-b54f-93eb0fd051d9/d9t8coa-68b88586-cf26-468d-95fa-e388564b879e.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E3NzE3MzI4LTY5MzktNDZkYy1iNTRmLTkzZWIwZmQwNTFkOVwvZDl0OGNvYS02OGI4ODU4Ni1jZjI2LTQ2OGQtOTVmYS1lMzg4NTY0Yjg3OWUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.D2JeccFU5EYaa8D8yasPABUjxYRG2p63PfU0d0Ay2Qg" height=200 width="30%">
-    <img src="https://media.giphy.com/media/Pq9XWZjaZNDHvgqYIZ/giphy.gif?raw=true" height=200 width="30%">
-    <img src="https://3.bp.blogspot.com/-OV7EzcTdOE0/Wj6kx-JZdmI/AAAAAAAAJws/BE9j1Sv4wFAEV4zTMO-5yXao2U20zUYMACLcBGAs/s1600/fsociety_9.gif?raw=true" height=200 width="30%"> 
-</div>
-<br>
 <details>
-    <summary>Popular Projects</summary>
+    <summary><h2 align="left"> Popular Projects ✨🗂️</h3></summary>
     <a href="https://github.com/404">
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
         <pre>
@@ -92,6 +84,14 @@ const Bio = () => {
     </a>
     <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 </details>
+
+<h1 align="center">BTW, I Use Arch 💪</h1>
+<div align="center">
+    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a7717328-6939-46dc-b54f-93eb0fd051d9/d9t8coa-68b88586-cf26-468d-95fa-e388564b879e.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E3NzE3MzI4LTY5MzktNDZkYy1iNTRmLTkzZWIwZmQwNTFkOVwvZDl0OGNvYS02OGI4ODU4Ni1jZjI2LTQ2OGQtOTVmYS1lMzg4NTY0Yjg3OWUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.D2JeccFU5EYaa8D8yasPABUjxYRG2p63PfU0d0Ay2Qg" height=200 width="30%">
+    <img src="https://media.giphy.com/media/Pq9XWZjaZNDHvgqYIZ/giphy.gif?raw=true" height=200 width="30%">
+    <img src="https://3.bp.blogspot.com/-OV7EzcTdOE0/Wj6kx-JZdmI/AAAAAAAAJws/BE9j1Sv4wFAEV4zTMO-5yXao2U20zUYMACLcBGAs/s1600/fsociety_9.gif?raw=true" height=200 width="30%"> 
+</div>
+<br>
 <img src="https://thumbs.gfycat.com/FreshAltruisticAnemone-size_restricted.gif" height="8" width="100%" align="center">
 
 <img src="https://raw.githubusercontent.com/Akshay-Vs/Akshay-Vs/8ce2964ebae4f9590be83ce7d2c965f571a2b45d/github-contribution-grid-snake-dark.svg" width="100%" align="center">
