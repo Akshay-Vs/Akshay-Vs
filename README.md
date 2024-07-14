@@ -20,15 +20,15 @@ const Bio = () => {
 </p>
 
 <h2 align="left"> Stats 📈📊</h3>
-<div align="left">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-vs&theme=tokyonight_duo" width="58%" height=260/>
-    <img align="right" src="https://github-profile-trophy.vercel.app/?username=akshay-vs&theme=nord&column=3&margin-w=5.11&margin-h=6&title=Followers,Stars,MultiLanguage,Commit,Repo,PullRequest&noframe=true" alt="profile-trophy" width="38%" height=260/>
-</div>
+
  <div>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=akshay-vs&show_icons=true&locale=en&theme=radical" alt="akshay-vs" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay-vs&show_icons=true&locale=en&layout=compact&theme=radical" alt="akshay-vs" />
 </div>
-
+<div align="left">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-vs&theme=tokyonight_duo" width="58%" height=260/>
+    <img align="right" src="https://github-profile-trophy.vercel.app/?username=akshay-vs&theme=nord&column=3&margin-w=5.11&margin-h=6&title=Followers,Stars,MultiLanguage,Commit,Repo,PullRequest&noframe=true" alt="profile-trophy" width="38%" height=260/>
+</div>
 <br/>
 <hr/>
 <br/>
