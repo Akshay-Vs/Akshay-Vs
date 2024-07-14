@@ -20,7 +20,7 @@ const Bio = () => {
 </p>
 
 <details open>
-    <summary><h2 align="left"> Stats 📈📊</h3></summary>
+    <summary><h2 align="left"> Stats 📈📊</h2></summary>
  <div>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=akshay-vs&show_icons=true&locale=en&theme=radical" alt="akshay-vs" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay-vs&show_icons=true&locale=en&layout=compact&theme=radical" alt="akshay-vs" />
@@ -32,17 +32,20 @@ const Bio = () => {
 </details>
 
 <details>
-    <summary><h2 align="left"> Latest Blogs 📚🎧☕</h3></summary>
+  <summary><h2 align="left"> Latest Blogs 📚🎧☕</h2></summary>
+
 <!-- BLOG-POST-LIST:START -->
 - [Become a Pro Programmer: 10 Tips and Strategies for Improving Your Coding Skills](https://dev.to/akshayvs/become-a-pro-programmer-10-tips-and-strategies-for-improving-your-coding-skills-2364)
-- [8 Steps to Become a Linux Geek &lpar;A Penguin Guide&rpar;](https://medium.com/codex/8-steps-to-become-a-linux-geek-a-penguin-guide-8a02947b2517?source=rss-e5a58e5baf27------2)
+- [8 Steps to Become a Linux Geek (A Penguin Guide)](https://medium.com/codex/8-steps-to-become-a-linux-geek-a-penguin-guide-8a02947b2517?source=rss-e5a58e5baf27------2)
 - [Upscale Your Machine Learning Skills: A Beginner’s Guide to Building High-Accuracy Neural Networks](https://ai.plainenglish.io/upscale-your-machine-learning-skills-a-beginners-guide-to-building-high-accuracy-neural-networks-3edbeaf19228?source=rss-e5a58e5baf27------2)
 - [Become a Pro programmer: 10 Tips and Strategies for Improving Your Coding Skills](https://medium.com/codex/become-a-pro-programmer-10-tips-and-strategies-for-improving-your-coding-skills-75863d589533?source=rss-e5a58e5baf27------2)
 <!-- BLOG-POST-LIST:END -->
+
 </details>
 
+
 <details>
-    <summary><h2 align="left"> Popular Projects ✨🗂️</h3></summary>
+    <summary><h2 align="left"> Popular Projects ✨🗂️</h2></summary>
     <a href="https://github.com/404">
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
         <pre>
