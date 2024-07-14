@@ -38,7 +38,7 @@ const Bio = () => {
 
 <!-- BLOG-POST-LIST:START -->
 - [Become a Pro Programmer: 10 Tips and Strategies for Improving Your Coding Skills](https://dev.to/akshayvs/become-a-pro-programmer-10-tips-and-strategies-for-improving-your-coding-skills-2364)
-- [8 Steps to Become a Linux Geek (A Penguin Guide)](https://medium.com/codex/8-steps-to-become-a-linux-geek-a-penguin-guide-8a02947b2517?source=rss-e5a58e5baf27------2)
+- [8 Steps to Become a Linux Geek &lpar;A Penguin Guide&rpar;](https://medium.com/codex/8-steps-to-become-a-linux-geek-a-penguin-guide-8a02947b2517?source=rss-e5a58e5baf27------2)
 - [Upscale Your Machine Learning Skills: A Beginner’s Guide to Building High-Accuracy Neural Networks](https://ai.plainenglish.io/upscale-your-machine-learning-skills-a-beginners-guide-to-building-high-accuracy-neural-networks-3edbeaf19228?source=rss-e5a58e5baf27------2)
 - [Become a Pro programmer: 10 Tips and Strategies for Improving Your Coding Skills](https://medium.com/codex/become-a-pro-programmer-10-tips-and-strategies-for-improving-your-coding-skills-75863d589533?source=rss-e5a58e5baf27------2)
 <!-- BLOG-POST-LIST:END -->
