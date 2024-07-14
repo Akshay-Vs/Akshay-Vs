@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello World!, I'm Akshay Vs</h1>
-<h3 align="center"> ⚛ React.js | &lt;/&gt; Next.js | 🖥️ Node.js | 🐍 Python | 🐧 Linux Enthusiast | 🌍 Open-Source Contributor</h3>
+<h3 align="center"> ⚛ React.js | &lt;/&gt; Node.js | 🐍 Python | 🐧 Linux Enthusiast | 🌍 Open-Source Contributor</h3>
 <h3 align="center"> 🌟 Writing Bugs since 2019! 🚀</h3>
 
 ```js
