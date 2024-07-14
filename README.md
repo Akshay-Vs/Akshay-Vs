@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello World!, I'm Akshay Vs</h1>
 <h3 align="center"> ⚛ React.js | &lt;/&gt; Next.js | 🖥️ Node.js | 🐧 Linux Enthusiast | 🌍 Open-Source Contributor</h3>
-<h3 align="center"> 🌟 Revolutionizing the web since 2019! 🚀</h3>
+<h3 align="center"> 🌟 Writing Bugs since 2019! 🚀</h3>
 
 ```js
 const Bio = () => {
@@ -8,19 +8,17 @@ const Bio = () => {
     const Stack = ['M','E','R','N']
     const Addons = {
         isNerd: false,
-        makesBugs: true,
         drinkCoffee: "recursively"
     }
 }
 ``` 
 
 </div>
-<p>
-    <a href="mailto:akshay.vs2005@gmail.com?subject=Hello%20again" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" width="85" height="20"/> </a>
-    <a href="https://twitter.com/Akshay_vs__" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="akshay-vs" height="20" width="83" /></a>
-    <a href="https://www.instagram.com/akshay._.vs__/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="__akshay_v5"__ height="20" width="83" /></a>
-    <a href="https://stackoverflow.com/users/16265617/akshay-vs" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="akshay-vs" height="20" width="83" /></a>
-    <a href="https://linktr.ee/akshay_vs" target="_blank" rel="noreferrer noopener"><img align="center" src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="linktree" width="85" height="20"/> </a>
+<p align='center'>
+    <a href="mailto:akshay.vs2005@gmail.com?subject=Hello%20again" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" width="100" height="40"/> </a>
+    <a href="https://twitter.com/Akshay_vs__" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="akshay-vs" height="40" width="120" /></a>
+    <a href="https://www.instagram.com/akshay._.vs__/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="__akshay_v5"__ height="40" width="120" /></a>
+    <a href="https://linktr.ee/akshay_vs" target="_blank" rel="noreferrer noopener"><img align="center" src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="linktree" width="120" height="40"/> </a>
 </p>
 <div align="left">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-vs&theme=tokyonight_duo" width="58%" height=260/>
