@@ -1,4 +1,4 @@
-name: Latest  workflow
+name: Fetch Blog Posts
 on: 
    schedule:
      - cron: '0 * * * *'
