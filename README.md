@@ -24,8 +24,8 @@ const Bio = () => {
 <details open>
     <summary><h2 align="left"> Stats 📈📊</h2></summary>
  <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=akshay-vs&show_icons=true&locale=en&theme=radical" alt="akshay-vs" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay-vs&show_icons=true&locale=en&layout=compact&theme=radical" alt="akshay-vs" />
+    <img align="left" src="https://github-readme-stats-nine-delta-30.vercel.app/api?username=akshay-vs&show_icons=true&locale=en&theme=radical" alt="akshay-vs" />
+    <img align="center" src="https://github-readme-stats-nine-delta-30.vercel.app/api/top-langs?username=akshay-vs&show_icons=true&locale=en&layout=compact&theme=radical" alt="akshay-vs" />
 </div>
 <div align="left">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-vs&theme=tokyonight_duo" width="58%" height=260/>
