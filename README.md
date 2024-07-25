@@ -21,7 +21,7 @@ const Bio = () => {
     
 </p>
 
-<details open>
+<details open> 
     <summary><h2 align="left"> Stats 📈📊</h2></summary>
  <div>
     <img align="left" src="https://github-readme-stats-nine-delta-30.vercel.app/api?username=akshay-vs&show_icons=true&locale=en&theme=radical" alt="akshay-vs" />
