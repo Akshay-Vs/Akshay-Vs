@@ -96,6 +96,7 @@ const Bio = () => {
 <br>
 <img src="https://thumbs.gfycat.com/FreshAltruisticAnemone-size_restricted.gif" height="8" width="100%" align="center">
 
-<img src="https://raw.githubusercontent.com/Akshay-Vs/Akshay-Vs/8ce2964ebae4f9590be83ce7d2c965f571a2b45d/github-contribution-grid-snake-dark.svg" width="100%" align="center">
+<img src="https://raw.githubusercontent.com/Akshay-Vs/Akshay-Vs/output/github-contribution-grid-snake-dark.svg" width="100%" align="center">
+
 <img src="https://komarev.com/ghpvc/?username=Akshay-Vs&color=blueviolet&style=plastic"/> </a> </p>
 </p>
