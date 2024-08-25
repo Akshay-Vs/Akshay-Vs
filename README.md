@@ -3,7 +3,7 @@
 <h3 align="center"> 🌟 Writing Bugs since 2019! 🚀 | ✨ I'm One of the <a href="https://committers.top/india"> top 100 contributors</a> from India 🇮🇳</h3> 
  
 ```js
-const Bio = () => {
+const Bio = () => { 
     const Username = "Akshay-Vs"
     const Stack = ['M','E','R','N']
     const Addons = {
