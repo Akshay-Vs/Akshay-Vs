@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello World!, I'm Akshay Vs</h1>
 <h3 align="center"> ⚛ React.js | &lt;/&gt; Node.js | 🐍 Python | 🐧 Linux Enthusiast | 🌍 Open-Source Contributor</h3>
 <h3 align="center"> 🌟 Writing Bugs since 2019! 🚀 | ✨ I'm One of the <a href="https://committers.top/india"> top 50 contributors</a> from India 🇮🇳</h3>  
-  
+
 ```js
 const Bio = () => { 
     const Username = "Akshay-Vs"
