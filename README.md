@@ -1,7 +1,7 @@
 <img src="https://ik.imagekit.io/geeekg65rf/cover-01?updatedAt=1730273870182" />
 
 <h2 align='center'>Hello Devs! &nbsp; I'm Akshay Vs <img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/winking-face.gif" width="38" /></h2>
-<h3 align="center"> ⚛ React.js | &lt;/&gt; Node.js | 🐍 Python | 🐧 Linux Enthusiast | 🌍 Open-Source Contributor</h3>
+<h3 align="center"> ⚛ React.js | &lt;/&gt; Node.js | 🐍 Python | 🐧 Linux Enthusiast</h3>
 <h3 align="center"> 🌟 Writing Bugs since 2019! 🚀 | ✨ I'm One of the <a href="https://committers.top/india"> top 50 contributors</a> from India 🇮🇳</h3>  
 
 <p align='center'> 
