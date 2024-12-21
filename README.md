@@ -56,22 +56,7 @@
     <b><br>EcoTrack is a user-friendly web application empowering individuals to reduce their carbon footprint and embrace <br> sustainable practices.</b>
     <br>
     </pre>
-    <a href="https://github.com/404">
-        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-        <pre>
-    <h3 align="center" href="https://github.com/Akshay-Vs/Web-Project-01">Webpage-01</h3>
-    <a href="https://akshay-vs.github.io/Web-Project-01/"><img align="center" src="https://github.com/Akshay-Vs/resources/blob/main/images/WebSite01.png" height="100%" width="97%"> </a>
-    <b>This is a test website</b>
-    <br>
-    </pre>
-    <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-    <pre>
-        <h3 align="center">MVC-Calc</h3>
-        <a href="https://github.com/Akshay-Vs/MVC-Calc"> 
-          <img src="https://github.com/Akshay-Vs/resources/blob/main/images/MVC-Calc.png?raw=true" height="100%" width="97%"/>
-        </a>
-        <b>A Calculator Web-App Made with ASP .Net MVC</b>
-     <br>
+   
  </pre>
     <a href="https://github.com/Akshay-Vs/Akshay-Vs/blob/main/Projects/Ptojects.md">
         <h3 align="center">See more →</h3>
