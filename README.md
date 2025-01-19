@@ -4,7 +4,7 @@
 <h3 align="center"> ⚛ React.js | &lt;/&gt; Node.js | 🐍 Python | 🐧 Linux Enthusiast</h3>
 <h3 align="center"> 🌟 Writing Bugs since 2019! 🚀 | ✨ I'm One of the <a href="https://committers.top/india"> top 150 contributors</a> from India 🇮🇳</h3>  
 
-<p align='center'> 
+<p align='center'>
     <a href="[https://linktr.ee/akshay_vs](https://www.linkedin.com/in/me-akshay-vs/)" target="_blank" rel="noreferrer noopener"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linktree" width="120" height="30"/> </a>
     <a href="mailto:me.akshay.vs@gmail.com?subject=Hello%20again" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" width="100" height="30"/> </a>
     <a href="https://twitter.com/Akshay_vs__" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="akshay-vs" height="30" width="120" /></a>
