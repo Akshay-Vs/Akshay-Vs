@@ -53,11 +53,8 @@
   <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 <pre>
 <h2 align="center">Console >_</h2>
-<h3><a href="https://github.com/Akshay-Vs/Number-Guessing-Game-cs"> Number-Guessing-Game-C# </a></h3>
-<h3><a href="https://github.com/Akshay-Vs/Number-Guessing-game">Number-Guessing-Game-Python </a></h3>
 <h3><a href="https://github.com/Akshay-Vs/Number-Guessing-game">Instagram spam bot</a></h3>
 <h3><a href="https://github.com/Akshay-Vs/AutoModule">AutoModule Python</a></h3></h3>
-<h3><a href="https://github.com/Akshay-Vs/TextEngine">An engine for text based games<a/></h3>
 <h3><a href="https://github.com/Akshay-Vs/Rock-Paper-Scissors"> <h3Rock Paper Scissors in python</a></h3>
 </pre>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
