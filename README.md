@@ -1,8 +1,8 @@
 <img src="https://ik.imagekit.io/geeekg65rf/cover-01?updatedAt=1730273870182" />
 
 <h2 align='center'>Hello Devs! &nbsp; I'm Akshay Vs <img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/winking-face.gif" width="38" /></h2>
-<h3 align="center"> ⚛ React.js | &lt;/&gt; Node.js | 🐍 Python | 🐧 Linux Enthusiast</h3>
-<h3 align="center"> 🌟 Writing Bugs since 2019! 🚀 | ✨ I'm One of the <a href="https://committers.top/india"> top 100 contributors</a> from India 🇮🇳</h3>  
+<h3 align="center"> ⚛ React.js | &lt;/&gt; Node.js | 🐍 Python | 🐧 Linux </h3>
+<h3 align="center"> 🌟 Writing Bugs since 2019! 🚀 | ✨ I'm One of the <a href="https://committers.top/india"> top 100 contributors</a> from India 🇮🇳</h3>
 
 <p align='center'> 
     <a href="[https://linktr.ee/akshay_vs](https://www.linkedin.com/in/me-akshay-vs/)" target="_blank" rel="noreferrer noopener"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linktree" width="120" height="30"/> </a>
@@ -25,15 +25,20 @@
 </div>
 </details>
 
+<details open> 
+    <summary><h2 align="left"> Stats 📈📊</h2></summary>
+ <div>
+</div>
+</details>
 <details>
   <summary><h2 align="left"> Latest Blogs 📚🎧☕</h2></summary>
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Become a Pro Programmer: 10 Tips and Strategies for Improving Your Coding Skills](https://dev.to/akshayvs/become-a-pro-programmer-10-tips-and-strategies-for-improving-your-coding-skills-2364)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
-
 
 <details>
     <summary><h2 align="left"> Popular Projects ✨🗂️</h2></summary>
@@ -73,4 +78,5 @@
 <img src="https://raw.githubusercontent.com/Akshay-Vs/Akshay-Vs/output/github-contribution-grid-snake-dark.svg" width="100%" align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Akshay-Vs&color=blueviolet&style=plastic"/> </a> </p>
+
 </p>
