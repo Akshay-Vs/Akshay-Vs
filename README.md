@@ -25,7 +25,7 @@
 </div>
 </details>
 
-<details open> 
+<details> 
     <summary><h2 align="left"> My Stack ⚙️🛠️</h2></summary>
  <table>
   <tr>
