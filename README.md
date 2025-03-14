@@ -34,7 +34,6 @@
   <summary><h2 align="left"> Latest Blogs 📚🎧☕</h2></summary>
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Become a Pro Programmer: 10 Tips and Strategies for Improving Your Coding Skills](https://dev.to/akshayvs/become-a-pro-programmer-10-tips-and-strategies-for-improving-your-coding-skills-2364)
 <!-- BLOG-POST-LIST:END -->
 
