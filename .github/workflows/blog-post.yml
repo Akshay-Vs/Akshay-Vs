@@ -1,7 +1,8 @@
 name: Fetch Blog Posts
 on: 
    schedule:
-     - cron: '0 * * * *'
+     - cron: '30 5 * * *'
+
 jobs: 
     update-readme-with-blog: 
         name: Update this repo's README with latest blog posts
