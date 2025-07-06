@@ -62,6 +62,7 @@
     <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" height="32" /> 
     <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" height="32" />
     <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" height="32" />
+    <img src="https://camo.githubusercontent.com/7c23d83aa3f562fc3ea34459a390015f62a1628424770484c89f77150f27b952/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507269736d612d3339383243453f7374796c653d666f722d7468652d6261646765266c6f676f3d507269736d61266c6f676f436f6c6f723d7768697465" height="32"/>
     </td>
   </tr>
   <tr>
