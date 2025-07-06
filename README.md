@@ -22,7 +22,7 @@
     
 <div>
     <a href="https://gitroll.io/profile/u4Ha4Qgr6HaOyoPGKepy3YSjBfRy2"><img align="center" src="https://gitroll.io/api/badges/profiles/v1/u4Ha4Qgr6HaOyoPGKepy3YSjBfRy2?theme=tokyoNight" height=261 width="40%"/> </a>
-    <img align="right" src="https://github-profile-trophy.vercel.app/?username=akshay-vs&theme=nord&column=3&margin-w=5.11&margin-h=6&title=Followers,Stars,MultiLanguage,Commit,Experience,PullRequest&noframe=true" alt="profile-trophy" width="38%" height=260/>
+    <img align="right" src="https://github-profile-trophy.vercel.app/?username=akshay-vs&theme=nord&column=3&margin-w=5.11&margin-h=6&title=Followers,Stars,MultiLanguage,Commit,Experience,PullRequest&noframe=true" alt="profile-trophy" width="36%" height=260/>
 </div>
 </details>
 
