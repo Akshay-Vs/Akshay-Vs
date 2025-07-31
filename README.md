@@ -2,7 +2,7 @@
 
 <h2 align='center'>Hello Devs! &nbsp; I'm Akshay Vs <img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/winking-face.gif" width="38" /></h2>
 <h3 align="center"> I'm a fully-stacked TypeScripter with an unhealthy relationship with Linux 🐧</h3>
-<h3 align="center"> 🌟 Writing Bugs since 2019! 🚀 | ✨ I'm One of the <a href="https://committers.top/india"> top 20 contributors</a> from India 🇮🇳</h3>
+<h3 align="center"> 🌟 Writing Bugs since 2019! 🚀 | ✨ I'm One of the <a href="https://committers.top/india"> top 50 contributors</a> from India 🇮🇳</h3>
 
 <p align='center'> 
     <a href="[https://linktr.ee/akshay_vs](https://www.linkedin.com/in/me-akshay-vs/)" target="_blank" rel="noreferrer noopener"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linktree" width="120" height="30"/> </a>
