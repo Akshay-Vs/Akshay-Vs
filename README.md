@@ -3,7 +3,6 @@
 <h2 align='center'>Hello Devs! &nbsp; I'm Akshay Vs <img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/winking-face.gif" width="38" /></h2>
 <h3 align="center"> I'm a fully-stacked TypeScripter with an unhealthy relationship with Linux 🐧</h3>
 <h3 align="center"> 🌟 Writing Bugs since 2019! 🚀</h3>
-
 <p align='center'> 
     <a href="[https://linktr.ee/akshay_vs](https://www.linkedin.com/in/me-akshay-vs/)" target="_blank" rel="noreferrer noopener"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linktree" width="120" height="30"/> </a>
     <a href="mailto:akvs.dev@gmail.com?subject=Hello%20again" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" width="100" height="30"/> </a>
